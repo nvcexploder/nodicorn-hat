@@ -1,0 +1,22 @@
+{
+  "name": "nodicorn-hat",
+  "version": "0.1.0",
+  "description": "A node client to interact with the unicorn hat daemon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/lab/bin/lab -a code -t 90"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nvcexploder/nodicorn-hat.git"
+  },
+  "keywords": [
+    "raspi"
+  ],
+  "author": "nvcexploder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nvcexploder/nodicorn-hat/issues"
+  },
+  "homepage": "https://github.com/nvcexploder/nodicorn-hat#readme"
+}
